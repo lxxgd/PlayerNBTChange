@@ -1,0 +1,3 @@
+﻿简单的玩家NBT数据覆盖
+
+将playerdata中的玩家数据覆盖到level.dat中
